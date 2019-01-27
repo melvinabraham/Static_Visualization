@@ -1,0 +1,137 @@
+[
+    {
+        "categorie": "2009", 
+        "values": [
+            {
+                "value": 66, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 73, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 48, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 45, 
+                "rate": "Very much"
+            }
+        
+        ]
+    }, 
+    {
+        "categorie": "2010", 
+        "values": [
+            {
+                "value": 72, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 69, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 61, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 51, 
+                "rate": "Very much"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2011", 
+        "values": [
+            {
+                "value": 70, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 64, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 60, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 31, 
+                "rate": "Very much"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2012", 
+        "values": [
+            {
+                "value": 68, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 66, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 63, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 45, 
+                "rate": "Very much"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Craftsman", 
+        "values": [
+            {
+                "value": 6, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 15, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 9, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 12, 
+                "rate": "Very much"
+            }, 
+            {
+                "value": 3, 
+                "rate": "Tremendously"
+            }
+        ]
+    }, 
+    {
+        "categorie": "Inactive", 
+        "values": [
+            {
+                "value": 6, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 6, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 6, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 2, 
+                "rate": "Very much"
+            }, 
+            {
+                "value": 3, 
+                "rate": "Tremendously"
+            }
+        ]
+    }
+]
