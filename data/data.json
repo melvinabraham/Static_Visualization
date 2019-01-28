@@ -85,52 +85,128 @@
         ]
     }, 
     {
-        "categorie": "Craftsman", 
+        "categorie": "2013", 
         "values": [
             {
-                "value": 6, 
+                "value": 75, 
                 "rate": "Not at all"
             }, 
             {
-                "value": 15, 
+                "value": 81, 
                 "rate": "Not very much"
             }, 
             {
-                "value": 9, 
+                "value": 66, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 46, 
+                "rate": "Very much"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2014", 
+        "values": [
+            {
+                "value": 87, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 60, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 51, 
                 "rate": "Medium"
             }, 
             {
                 "value": 12, 
                 "rate": "Very much"
-            }, 
-            {
-                "value": 3, 
-                "rate": "Tremendously"
             }
         ]
     }, 
     {
-        "categorie": "Inactive", 
+        "categorie": "2015", 
         "values": [
             {
-                "value": 6, 
+                "value": 59, 
                 "rate": "Not at all"
             }, 
             {
-                "value": 6, 
+                "value": 65, 
                 "rate": "Not very much"
             }, 
             {
-                "value": 6, 
+                "value": 62, 
                 "rate": "Medium"
             }, 
             {
-                "value": 2, 
+                "value": 34, 
                 "rate": "Very much"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2016", 
+        "values": [
+            {
+                "value": 74, 
+                "rate": "Not at all"
             }, 
             {
-                "value": 3, 
-                "rate": "Tremendously"
+                "value": 68, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 53, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 35, 
+                "rate": "Very much"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2017", 
+        "values": [
+            {
+                "value": 76, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 63, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 49, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 56, 
+                "rate": "Very much"
+            }
+        ]
+    }, 
+    {
+        "categorie": "2018", 
+        "values": [
+            {
+                "value": 80, 
+                "rate": "Not at all"
+            }, 
+            {
+                "value": 69, 
+                "rate": "Not very much"
+            }, 
+            {
+                "value": 58, 
+                "rate": "Medium"
+            }, 
+            {
+                "value": 51, 
+                "rate": "Very much"
             }
         ]
     }
