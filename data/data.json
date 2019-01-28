@@ -4,19 +4,19 @@
         "values": [
             {
                 "value": 66, 
-                "rate": "Not at all"
+                "rate": "First Serve (Winner)"
             }, 
             {
                 "value": 73, 
-                "rate": "Not very much"
+                "rate": "Second Serve (Winner)"
             }, 
             {
                 "value": 48, 
-                "rate": "Medium"
+                "rate": "First Serve (Runner Up)"
             }, 
             {
                 "value": 45, 
-                "rate": "Very much"
+                "rate": "Second Serve (Runner Up)"
             }
         
         ]
@@ -26,19 +26,19 @@
         "values": [
             {
                 "value": 72, 
-                "rate": "Not at all"
+                "rate": "First Serve (Winner)"
             }, 
             {
                 "value": 69, 
-                "rate": "Not very much"
+                "rate": "Second Serve (Winner)"
             }, 
             {
                 "value": 61, 
-                "rate": "Medium"
+                "rate": "First Serve (Runner Up)"
             }, 
             {
                 "value": 51, 
-                "rate": "Very much"
+                "rate": "Second Serve (Runner Up)"
             }
         ]
     }, 
@@ -47,19 +47,19 @@
         "values": [
             {
                 "value": 70, 
-                "rate": "Not at all"
+                "rate": "First Serve (Winner)"
             }, 
             {
                 "value": 64, 
-                "rate": "Not very much"
+                "rate": "Second Serve (Winner)"
             }, 
             {
                 "value": 60, 
-                "rate": "Medium"
+                "rate": "First Serve (Runner Up)"
             }, 
             {
                 "value": 31, 
-                "rate": "Very much"
+                "rate": "Second Serve (Runner Up)"
             }
         ]
     }, 
@@ -68,19 +68,19 @@
         "values": [
             {
                 "value": 68, 
-                "rate": "Not at all"
+                "rate": "First Serve (Winner)"
             }, 
             {
                 "value": 66, 
-                "rate": "Not very much"
+                "rate": "Second Serve (Winner)"
             }, 
             {
                 "value": 63, 
-                "rate": "Medium"
+                "rate": "First Serve (Runner Up)"
             }, 
             {
                 "value": 45, 
-                "rate": "Very much"
+                "rate": "Second Serve (Runner Up)"
             }
         ]
     }, 
@@ -89,19 +89,19 @@
         "values": [
             {
                 "value": 75, 
-                "rate": "Not at all"
+                "rate": "First Serve (Winner)"
             }, 
             {
                 "value": 81, 
-                "rate": "Not very much"
+                "rate": "Second Serve (Winner)"
             }, 
             {
                 "value": 66, 
-                "rate": "Medium"
+                "rate": "First Serve (Runner Up)"
             }, 
             {
                 "value": 46, 
-                "rate": "Very much"
+                "rate": "Second Serve (Runner Up)"
             }
         ]
     }, 
@@ -110,19 +110,19 @@
         "values": [
             {
                 "value": 87, 
-                "rate": "Not at all"
+                "rate": "First Serve (Winner)"
             }, 
             {
                 "value": 60, 
-                "rate": "Not very much"
+                "rate": "Second Serve (Winner)"
             }, 
             {
                 "value": 51, 
-                "rate": "Medium"
+                "rate": "First Serve (Runner Up)"
             }, 
             {
                 "value": 12, 
-                "rate": "Very much"
+                "rate": "Second Serve (Runner Up)"
             }
         ]
     }, 
@@ -131,19 +131,19 @@
         "values": [
             {
                 "value": 59, 
-                "rate": "Not at all"
+                "rate": "First Serve (Winner)"
             }, 
             {
                 "value": 65, 
-                "rate": "Not very much"
+                "rate": "Second Serve (Winner)"
             }, 
             {
                 "value": 62, 
-                "rate": "Medium"
+                "rate": "First Serve (Runner Up)"
             }, 
             {
                 "value": 34, 
-                "rate": "Very much"
+                "rate": "Second Serve (Runner Up)"
             }
         ]
     }, 
@@ -152,19 +152,19 @@
         "values": [
             {
                 "value": 74, 
-                "rate": "Not at all"
+                "rate": "First Serve (Winner)"
             }, 
             {
                 "value": 68, 
-                "rate": "Not very much"
+                "rate": "Second Serve (Winner)"
             }, 
             {
                 "value": 53, 
-                "rate": "Medium"
+                "rate": "First Serve (Runner Up)"
             }, 
             {
                 "value": 35, 
-                "rate": "Very much"
+                "rate": "Second Serve (Runner Up)"
             }
         ]
     }, 
@@ -173,19 +173,19 @@
         "values": [
             {
                 "value": 76, 
-                "rate": "Not at all"
+                "rate": "First Serve (Winner)"
             }, 
             {
                 "value": 63, 
-                "rate": "Not very much"
+                "rate": "Second Serve (Winner)"
             }, 
             {
                 "value": 49, 
-                "rate": "Medium"
+                "rate": "First Serve (Runner Up)"
             }, 
             {
                 "value": 56, 
-                "rate": "Very much"
+                "rate": "Second Serve (Runner Up)"
             }
         ]
     }, 
@@ -194,19 +194,19 @@
         "values": [
             {
                 "value": 80, 
-                "rate": "Not at all"
+                "rate": "First Serve (Winner)"
             }, 
             {
                 "value": 69, 
-                "rate": "Not very much"
+                "rate": "Second Serve (Winner)"
             }, 
             {
                 "value": 58, 
-                "rate": "Medium"
+                "rate": "First Serve (Runner Up)"
             }, 
             {
                 "value": 51, 
-                "rate": "Very much"
+                "rate": "Second Serve (Runner Up)"
             }
         ]
     }
